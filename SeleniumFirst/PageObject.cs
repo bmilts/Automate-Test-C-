@@ -17,7 +17,7 @@ namespace SeleniumFirst
         public IWebElement txtUserName { get; set; }
 
         [FindsBy(How = How.Name, Using = "password")]
-        public IWebElement textPassword { get; set; }
+        public IWebElement txtPassword { get; set; }
 
         [FindsBy(How = How.Name, Using = "login")]
         public IWebElement btnLogin { get; set; }
@@ -39,5 +39,20 @@ namespace SeleniumFirst
 
         [FindsBy(How = How.Name, Using = "reserveFlights")]
         public IWebElement btnReserveContinue { get; set; }
+
+        [FindsBy(How = How.Name, Using = "passFirst0")]
+        public IWebElement txtPassFirst { get; set; }
+
+        [FindsBy(How = How.Name, Using = "passLast0")]
+        public IWebElement txtPassLast { get; set; }
+
+        [FindsBy(How = How.Name, Using = "creditnumber")]
+        public IWebElement txtCardAmex { get; set; }
+
+        [FindsBy(How = How.Name, Using = "ticketLess")]
+        public IWebElement cboxTicketless { get; set; }
+
+        [FindsBy(How = How.Name, Using = "buyFlights")]
+        public IWebElement btnSecurePurchase { get; set; }
     }
 }

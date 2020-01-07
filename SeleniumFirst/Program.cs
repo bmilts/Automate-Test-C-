@@ -38,7 +38,7 @@ namespace SeleniumFirst
             // b.Password: mercury
             // SeleniumSetMethods.EnterText("password", "mercury", PropertyType.Name);
             // POM
-            page.textPassword.SendKeys("mercury");
+            page.txtPassword.SendKeys("mercury");
 
             // Click Sign in button
             // SeleniumSetMethods.ClickElement( "login", PropertyType.Name);
@@ -66,14 +66,20 @@ namespace SeleniumFirst
             page.btnReserveContinue.Click();
 
             //9.     Provide a First Name
+            // POM
+            page.txtPassFirst.SendKeys("John");
 
             //10.  Provide a Last Name
+            page.txtPassLast.SendKeys("Doe");
 
             //11.  Provide a Credit Card Number
+            page.txtCardAmex.SendKeys("378282246310005");
 
             //12.  Check the Ticketless Travel box.
+            page.cboxTicketless.Click();
 
             //13.  Click the Secure Purchase button.
+            page.btnSecurePurchase.Click();
 
             Console.WriteLine("Executed Test");
 
