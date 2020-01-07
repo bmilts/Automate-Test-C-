@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumFirst", "SeleniumFirst\SeleniumFirst.csproj", "{F474B226-6232-4A3D-A717-C300DFEB908D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F474B226-6232-4A3D-A717-C300DFEB908D}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{F474B226-6232-4A3D-A717-C300DFEB908D}.Debug|anycpu.Build.0 = Debug|anycpu
+		{F474B226-6232-4A3D-A717-C300DFEB908D}.Release|anycpu.ActiveCfg = Release|anycpu
+		{F474B226-6232-4A3D-A717-C300DFEB908D}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

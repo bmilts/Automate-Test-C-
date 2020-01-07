@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{F474B226-6232-4A3D-A717-C300DFEB908D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SeleniumFirst/Collections.cs">
+    <Files>
+      <File FileName="SeleniumFirst/Program.cs" Line="8" Column="5" />
+      <File FileName="SeleniumFirst/SeleniumSetMethods.cs" Line="13" Column="40" />
+      <File FileName="SeleniumFirst/Collections.cs" Line="6" Column="12" />
+      <File FileName="SeleniumFirst/PageObjects.cs" Line="1" Column="1" />
+      <File FileName="SeleniumFirst/packages.config" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SeleniumFirst" expanded="True">
+            <Node name="SeleniumFirst" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Collections.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SeleniumFirst" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SeleniumFirst PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

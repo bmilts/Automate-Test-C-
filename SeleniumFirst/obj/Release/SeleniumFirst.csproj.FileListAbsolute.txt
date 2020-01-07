@@ -1,0 +1,16 @@
+/Users/brendanmilton/Projects/SeleniumFirst/SeleniumFirst/bin/Release/NUnit3.TestAdapter.dll
+/Users/brendanmilton/Projects/SeleniumFirst/SeleniumFirst/bin/Release/NUnit3.TestAdapter.pdb
+/Users/brendanmilton/Projects/SeleniumFirst/SeleniumFirst/bin/Release/nunit.engine.dll
+/Users/brendanmilton/Projects/SeleniumFirst/SeleniumFirst/bin/Release/nunit.engine.api.dll
+/Users/brendanmilton/Projects/SeleniumFirst/SeleniumFirst/bin/Release/SeleniumFirst.exe
+/Users/brendanmilton/Projects/SeleniumFirst/SeleniumFirst/bin/Release/nunit.framework.dll
+/Users/brendanmilton/Projects/SeleniumFirst/SeleniumFirst/bin/Release/SeleniumExtras.PageObjects.dll
+/Users/brendanmilton/Projects/SeleniumFirst/SeleniumFirst/bin/Release/WebDriver.dll
+/Users/brendanmilton/Projects/SeleniumFirst/SeleniumFirst/bin/Release/WebDriver.Support.dll
+/Users/brendanmilton/Projects/SeleniumFirst/SeleniumFirst/bin/Release/WebDriver.xml
+/Users/brendanmilton/Projects/SeleniumFirst/SeleniumFirst/bin/Release/WebDriver.Support.xml
+/Users/brendanmilton/Projects/SeleniumFirst/SeleniumFirst/bin/Release/nunit.framework.pdb
+/Users/brendanmilton/Projects/SeleniumFirst/SeleniumFirst/bin/Release/nunit.framework.xml
+/Users/brendanmilton/Projects/SeleniumFirst/SeleniumFirst/obj/Release/SeleniumFirst.csprojAssemblyReference.cache
+/Users/brendanmilton/Projects/SeleniumFirst/SeleniumFirst/obj/Release/SeleniumFirst.csproj.CopyComplete
+/Users/brendanmilton/Projects/SeleniumFirst/SeleniumFirst/obj/Release/SeleniumFirst.exe
